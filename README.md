@@ -5,7 +5,9 @@
 
 ## :star: Exprience
 :heavy_check_mark: 16.03 ~ 20.02 Myongji univ. CE
+
 :heavy_check_mark: 19.09 ~ 19.12 Metanet Industry-Academic Cooperation Internship
+
 :heavy_check_mark: 20.08 ~ 20.10 POSCO Youth AI Bigdata Academy 11th
 
 ## :telephone_receiver: CONTACT
