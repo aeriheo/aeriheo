@@ -1,5 +1,3 @@
-# :four_leaf_clover: Aeri GitHub
-
 ## :heart: NOW
 :bulb: 21.01 ~ SAMSUNG SW Academy For Youth 5th Embedded Class
 
@@ -12,4 +10,3 @@
 
 ## :telephone_receiver: CONTACT
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hureari@naver.com)](mailto:hureari@naver.com)
-
