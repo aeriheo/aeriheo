@@ -8,10 +8,6 @@
 :heavy_check_mark: 19.09 ~ 19.12 Metanet Industry-Academic Cooperation Internship
 :heavy_check_mark: 20.08 ~ 20.10 POSCO Youth AI Bigdata Academy 11th
 
-<div align=center>
-    <div>:telephone_receiver: CONTACT</div>
-        [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hureari@naver.com)](mailto:hureari@naver.com)
+## telephone_receiver: CONTACT
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hureari@naver.com)](mailto:hureari@naver.com)
 
-</div>	
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aeriheo)](https://github.com/anuraghazra/github-readme-stats)
