@@ -1,16 +1,19 @@
-### Hi there 👋
+# :four_leaf_clover: Aeri GitHub
 
-<!--
-**aeriheo/aeriheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :heart: NOW
+:bulb: 21.01 ~ SAMSUNG SW Academy For Youth 5th Embedded Class
 
-Here are some ideas to get you started:
+## :star: Exprience
+:heavy_check_mark: 16.03 ~ 20.02 Myongji univ. CE
+:heavy_check_mark: 19.09 ~ 19.12 Metanet Industry-Academic Cooperation Internship
+:heavy_check_mark: 20.08 ~ 20.10 POSCO Youth AI Bigdata Academy 11th
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+    <div>## :telephone_receiver: CONTACT</div>
+    <div>
+        [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hureari@naver.com)](mailto:hureari@naver.com)
+        
+    </div>
+</div>	
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aeriheo)](https://github.com/anuraghazra/github-readme-stats)
